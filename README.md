@@ -4,7 +4,7 @@
 With the help of this project, machine can generate its own captions related to the image. The model uses Flickr dataset for training data and uses LSTM for training.
 
 ## Dataset Used :- 
-Flickr 8k Text Dataset
+Flickr 8k Dataset
 
 ## Libraries Used :- 
 1. Numpy
