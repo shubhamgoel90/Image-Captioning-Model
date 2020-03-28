@@ -1,7 +1,7 @@
 # Image-Captioning
 
 ## Project_Image_Captioning
-With the help of this project, machine can generate its own captions related to the image. The model uses Flickr dataset for training data and uses LSTM for training.
+With the help of this project, machine can generate its own captions related to the image. The model uses Flickr8k dataset for training data and uses LSTM for training.
 
 ## Dataset Used :- 
 Flickr 8k Dataset
